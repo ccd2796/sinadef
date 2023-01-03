@@ -6,7 +6,7 @@ SINADEF database is required.
 
 https://www.datosabiertos.gob.pe/dataset/informaci%C3%B3n-de-fallecidos-del-sistema-inform%C3%A1tico-nacional-de-defunciones-sinadef-ministerio
 
-Happy it made it to TV! This was months before SINADEF was used as the official source.
+Happy for the broadcast! This was months before SINADEF was used as the official source.
 
 https://youtu.be/Eq8BTPkFyFk?t=200
 
